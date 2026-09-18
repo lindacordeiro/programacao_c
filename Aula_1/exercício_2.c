@@ -3,9 +3,9 @@
 
 real principal(){
     real num_real, quadrado;
-    escrevaC("Digite um número real: ");
+    escrevaC("Digite um numero real: ");
     leiaC(" %f", &num_real);
     quadrado = num_real * num_real;
-    escrevaC("O quadrado de %f é: %f\n", num_real, quadrado);
+    escrevaC("O quadrado de %f eh: %f\n", num_real, quadrado);
     retorne 0;
 }

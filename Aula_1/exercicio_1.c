@@ -4,11 +4,11 @@
 inteiro principal(){
     inteiro num_int;
     real num_real;
-    escrevaC("Digite um número inteiro: ");
+    escrevaC("Digite um numero inteiro: ");
     leiaC(" %d", &num_int);
-    escrevaC("O número inteiro digitado foi: %d\n", num_int);
-    escrevaC("Digite um número real: ");
+    escrevaC("O numero inteiro digitado foi: %d\n", num_int);
+    escrevaC("Digite um numero real: ");
     leiaC(" %f", &num_real);
-    escrevaC("O número real digitado foi: %f\n", num_real);
+    escrevaC("O numero real digitado foi: %f\n", num_real);
     retorne 0;
 }
