@@ -14,4 +14,5 @@ real principal(){
     media = (n1 + n2 + n3 + n4) / 4;
     escrevaC("A media das 4 notas dadas eh: %f\n", media);
     retorne 0;
+    
 }
